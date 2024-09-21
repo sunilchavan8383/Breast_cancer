@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/breast_cancer/static/css/main.0f28eb09.css",
+    "main.js": "/breast_cancer/static/js/main.a5acbef0.js",
+    "static/js/453.cf22bea2.chunk.js": "/breast_cancer/static/js/453.cf22bea2.chunk.js",
+    "static/media/80e41a93-c914-47a9-b861-a08e84fd0a20 1.png": "/breast_cancer/static/media/80e41a93-c914-47a9-b861-a08e84fd0a20 1.79ffa3edd65681067331.png",
+    "static/media/72d3834c-818f-4542-90d1-ae205c24c453 1.png": "/breast_cancer/static/media/72d3834c-818f-4542-90d1-ae205c24c453 1.15c19cfe96a6dc234feb.png",
+    "static/media/WhatsApp Image 2024-09-09 at 12.58.30_cfba7089 1.png": "/breast_cancer/static/media/WhatsApp Image 2024-09-09 at 12.58.30_cfba7089 1.8ca47b30692a598ca79b.png",
+    "static/media/WhatsApp Image 2024-09-09 at 12.55.40_5a6c6073 1.png": "/breast_cancer/static/media/WhatsApp Image 2024-09-09 at 12.55.40_5a6c6073 1.884131ea58f1af924a15.png",
+    "static/media/pink-ribbon-transparent-background-14 1.png": "/breast_cancer/static/media/pink-ribbon-transparent-background-14 1.0a69f61f5d2d56b16f64.png",
+    "static/media/back.png": "/breast_cancer/static/media/back.d1a6374598a91d96c003.png",
+    "static/media/back - Copy.png": "/breast_cancer/static/media/back - Copy.bf0fbaefae9ec950d0f3.png",
+    "index.html": "/breast_cancer/index.html",
+    "main.0f28eb09.css.map": "/breast_cancer/static/css/main.0f28eb09.css.map",
+    "main.a5acbef0.js.map": "/breast_cancer/static/js/main.a5acbef0.js.map",
+    "453.cf22bea2.chunk.js.map": "/breast_cancer/static/js/453.cf22bea2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f28eb09.css",
+    "static/js/main.a5acbef0.js"
+  ]
+}
